@@ -360,8 +360,12 @@ header {
 
 .contact img {
     width: 250px;
-    height: 450px;
+    height: 260px;
     padding-right: 40px;
+    padding-top: 75px;
+}
+.flex_contactImage{
+    padding-top: 20px;
 }
 
 .address {
